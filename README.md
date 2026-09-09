@@ -16,3 +16,8 @@ Each subproject can, optionally, adopt mise by adding a `mise.toml` configuratio
 ## Release Process
 
 For the thoroughly defined process releasing services in this repository, please refer to [this document](./RELEASE.md).
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais du composant op-signer de ce monorepo est disponible dans [docs/fr](docs/fr/README.md) : presentation, namespaces RPC eth et opsigner, autorisation par certificat mTLS, abstraction multi-KMS et signature GCP, limites et perimetre.
